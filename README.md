@@ -1,4 +1,4 @@
-#Asyn Apex Job Redirect Page Parameters
+#Async Apex Job Redirect Page Parameters
 keep user on intermediate Visualforce page until Async Apex Job is completed before redirecting to record in order to prevent row lock errors.
 
 Param  | Description | Required
